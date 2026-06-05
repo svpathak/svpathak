@@ -9,7 +9,7 @@
 ## About Me
 
 - 🎓 **MTech in Data Science**, IIT Guwahati (CPI: 9.61) &nbsp;|&nbsp; **BTech in Electrical Engineering**, VJTI Mumbai
-- 💼 ML Engineer / Data Scientist with ~2.5 years of ML/AI experience — NLP pipelines, LLM-based RAG systems, and cloud-scale analytics on Azure & GCP
+- 💼 AI/ML Engineer / Data Scientist with ~2.5 years of ML/AI experience — NLP pipelines, LLM-based RAG systems, and cloud-scale analytics on Azure & GCP
 - 🔬 **ACM Published** — S-VQA at ICVGIP 2023
 - 🏆 **LeetCode Knight** — Top ~5% globally
 - 🚀 Passionate about **LLMs**, **RAG**, **PEFT/LoRA fine-tuning**, **Agents**, and **NLP evaluation**
